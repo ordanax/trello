@@ -5,7 +5,7 @@ To change item simply click into the box and change the text content and when fi
 
 The page uses local storage so when refreshing the page your board stays the same.
 
-# Клонирование Trello
+# Клон Trello
 
 Этот проект является клоном Trello, выполненным только на чистом JavaScript. Вы можете добавлять элементы, перетаскивать их, изменять и удалять.
 Чтобы изменить элемент, просто щелкните по нему и измените текстовое содержимое, затем щелкните вне поля, чтобы сохранить изменения. Чтобы удалить элементы, просто щелкните по ним, удалите текстовое содержимое и щелкните вне поля, чтобы сохранить изменения.
